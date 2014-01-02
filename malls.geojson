@@ -5,7 +5,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-22.544621, 114.106337]
+        "coordinates": [-114.106337, 22.544621]
       },
       "properties": {
         "marker-symbol": "shop",
@@ -18,7 +18,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-22.524182,113.991296]
+        "coordinates": [-113.991296, 22.524182]
       },
       "properties": {
         "marker-symbol": "shop",
