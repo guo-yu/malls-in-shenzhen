@@ -5,28 +5,13 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [102.0, 0.5]
+        "coordinates": [22.32576, 114.6385]
       },
       "properties": {
-        "prop0": "value0"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [100.0, 0.0], [101.0, 0.0], [101.0, 1.0], [100.0, 1.0],
-            [100.0, 0.0]
-          ]
-        ]
-      },
-      "properties": {
-        "prop1": {
-          "this": "that"
-        },
-        "prop0": "value0"
+        "marker-symbol": "shop",
+        "name": "kkmall",
+        "description": "京基百纳空间",
+        "zipcode": 518001
       }
     }
   ]
