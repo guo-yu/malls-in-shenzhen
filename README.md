@@ -2,6 +2,15 @@
 
 Shenzhen is well known by shopping malls. this project is counting shopping malls in shenzhen, including their coordinate, name and description , in a single `malls.geojson` file.
 
+### Build maps
+
+malls.js will convert normal json file `./malls.json` to geojson file `./malls.geojson`
+
+````
+$ npm install .
+$ node malls.js
+````
+
 ### Contributing
 - Fork this repo
 - Clone your repo

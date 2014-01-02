@@ -1,0 +1,17 @@
+[
+    {
+        "name": "kkmall",
+        "zipcode": 518001,
+        "coordinates": [22.544621, 114.106337]
+    },
+    {
+        "name": "欢乐海岸",
+        "zipcode": 518053,
+        "coordinates": [22.524182, 113.991296]
+    },
+    {
+        "name": "星河 COCOPARK",
+        "zipcode": 518026,
+        "coordinates": [22.534182, 114.053704]
+    }
+]
