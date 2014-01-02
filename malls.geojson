@@ -5,13 +5,26 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [22.32576, 114.6385]
+        "coordinates": [-22.544621, 114.106337]
       },
       "properties": {
         "marker-symbol": "shop",
         "name": "kkmall",
         "description": "京基百纳空间",
         "zipcode": 518001
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-22.524182,113.991296]
+      },
+      "properties": {
+        "marker-symbol": "shop",
+        "name": "欢乐海岸",
+        "description": "欢乐海岸购物广场",
+        "zipcode": 518053
       }
     }
   ]
