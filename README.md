@@ -1,6 +1,6 @@
-## malls-in-shenzhen
+## ![logo](http://ww1.sinaimg.cn/large/61ff0de3gw1ec54ul09bfj2014014a9t.jpg) malls-in-shenzhen
 
-counting shopping malls in shenzhen.
+Shenzhen is well known by shopping malls. this project is counting shopping malls in shenzhen, including their coordinates, name and description , in a single `malls.geojson` file.
 
 ### Contributing
 - Fork this repo
